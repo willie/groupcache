@@ -28,8 +28,8 @@ import (
 	"sync"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/mailgun/groupcache/v2/consistenthash"
-	pb "github.com/mailgun/groupcache/v2/groupcachepb"
+	"github.com/willie/groupcache/v2/consistenthash"
+	pb "github.com/willie/groupcache/v2/groupcachepb"
 )
 
 const defaultBasePath = "/_groupcache/"

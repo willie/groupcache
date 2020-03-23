@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/mailgun/groupcache/v2"
+	"github.com/willie/groupcache/v2"
 )
 
 func ExampleUsage() {
