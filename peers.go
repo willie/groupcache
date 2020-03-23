@@ -20,6 +20,7 @@ package groupcache
 
 import (
 	"context"
+
 	pb "github.com/willie/groupcache/v2/groupcachepb"
 )
 
